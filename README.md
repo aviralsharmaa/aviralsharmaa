@@ -1,4 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Aviral Sharma</h1>
 <h3 align="center">Android developer with a passion for creating apps that makes the user experience more meaningful. I'm always looking to challenge myself and grow my skill set. Let's collaborate and turn your ideas into reality! I will never give up until I achieve what is truly better for this world. And keep doing with a great purpose as an app developer.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
