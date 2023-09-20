@@ -5,13 +5,11 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviralsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="aviralsharmaa" /> </p>
 
-- 🔭 I’m currently working on [Social-media-apps](https://github.com/aviralsharmaa/Instagram_Clone)
-
-- 🌱 I’m currently learning **Flutter, Dart, Java, DSA**
+- 🌱 I’m currently learning **Flutter, Dart, DSA**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 📫 How to reach me **aviralsharma1243@gmail.com**
+- 📫 How to reach me **aviral.sharma.21@outlook.com**
 
 - ⚡ Fun fact **I think I should make a dating app for myself because I'm all alone.**
 
