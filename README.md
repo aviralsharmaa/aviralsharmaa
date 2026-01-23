@@ -1,27 +1,95 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙰𝚟𝚒𝚛𝚊𝚕 𝚂𝚑𝚊𝚛𝚖𝚊</h1>
 
-<h1 align="center">Hi 👋, I'm Aviral Sharma</h1>
-<h3 align="center">Android developer with a passion for creating apps that makes the user experience more meaningful. I'm always looking to challenge myself and grow my skill set. Let's collaborate and turn your ideas into reality! I will never give up until I achieve what is truly better for this world. And keep doing with a great purpose as an app developer.</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviralsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="aviralsharmaa" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart, DSA**
+📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+🤖 𝙼𝙻 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐 𝚒𝚗 𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝙻𝙻𝙼 𝚘𝚛𝚌𝚑𝚎𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙼𝙻𝙾𝚙𝚜 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜
 
-- 📫 How to reach me **aviral.sharma.21@outlook.com**
+💼 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 𝙾𝚗𝚎𝙰𝚁𝚅𝙾 𝚅𝚎𝚗𝚝𝚞𝚛𝚎𝚜
 
-- ⚡ Fun fact **I think I should make a dating app for myself because I'm all alone.**
+🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝙰𝙱𝙴𝚂𝙸𝚃, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸𝟶𝟸𝟺
 
-<h3 align="left">Connect with me:</h3>
+🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
+
+⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+
+🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+
+- 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚞𝚜𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝙲𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝙻𝚊𝚗𝚐𝙶𝚛𝚊𝚙𝚑!
+
+- 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚊𝚐𝚎𝚗𝚝𝚜 𝚝𝚑𝚊𝚝 𝚙𝚎𝚛𝚌𝚎𝚒𝚟𝚎, 𝚛𝚎𝚊𝚜𝚘𝚗, 𝚊𝚗𝚍 𝚊𝚌𝚝.
+
+- 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚎𝚗𝚍-𝚝𝚘-𝚎𝚗𝚍 𝙼𝙻 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜 𝚏𝚘𝚛 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.
+
+🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+
+𝙱𝚞𝚒𝚕𝚍 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝙰𝙸 𝚊𝚐𝚎𝚗𝚝𝚜 𝚝𝚑𝚊𝚝 𝚌𝚊𝚗 𝚜𝚘𝚕𝚟𝚎 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚝 𝚜𝚌𝚊𝚕𝚎!
+
+🚀 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+
+🤖 𝙰𝙸 𝙴𝚖𝚊𝚒𝚕 𝙰𝚐𝚎𝚗𝚝 - 𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙽𝙻𝙿-𝙱𝚊𝚜𝚎𝚍 𝙾𝚞𝚝𝚛𝚎𝚊𝚌𝚑 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗
+
+𝙰𝚗 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝 𝙰𝙸 𝚊𝚐𝚎𝚗𝚝 𝚝𝚑𝚊𝚝 𝚌𝚘𝚗𝚟𝚎𝚛𝚝𝚜 𝚗𝚊𝚝𝚞𝚛𝚊𝚕 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 (𝚎.𝚐., "𝚂𝚎𝚗𝚍 𝚊 𝚖𝚊𝚒𝚕 𝚝𝚘 𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝") 𝚒𝚗𝚝𝚘 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚍 𝚎𝚖𝚊𝚒𝚕 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜. 𝙱𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝙽𝙻𝙿 𝚒𝚗𝚝𝚎𝚗𝚝 𝚙𝚊𝚛𝚜𝚒𝚗𝚐, 𝚍𝚘𝚖𝚊𝚒𝚗-𝚕𝚎𝚟𝚎𝚕 𝚎𝚖𝚊𝚒𝚕 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢, 𝚜𝚎𝚌𝚞𝚛𝚎 𝙶𝚖𝚊𝚒𝚕 𝙰𝙿𝙸 𝚒𝚗𝚝𝚎𝚐𝚛𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝙾𝙰𝚞𝚝𝚑 𝟸.𝟶, 𝚊𝚗𝚍 𝚍𝚞𝚊𝚕 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 (𝙲𝙻𝙸 + 𝚂𝚝𝚛𝚎𝚊𝚖𝚕𝚒𝚝 𝚆𝚎𝚋 𝚄𝙸). 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚏𝚞𝚕𝚕 𝚊𝚐𝚎𝚗𝚝 𝚕𝚘𝚘𝚙: 𝚙𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗 → 𝚙𝚕𝚊𝚗𝚗𝚒𝚗𝚐 → 𝚝𝚘𝚘𝚕 𝚒𝚗𝚟𝚘𝚌𝚊𝚝𝚒𝚘𝚗 → 𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 → 𝚖𝚎𝚖𝚘𝚛𝚢.
+
+𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙻𝚊𝚗𝚐𝙲𝚑𝚊𝚒𝚗, 𝙶𝚖𝚊𝚒𝚕 𝙰𝙿𝙸, 𝙾𝙰𝚞𝚝𝚑 𝟸.𝟶, 𝚂𝚝𝚛𝚎𝚊𝚖𝚕𝚒𝚝, 𝚁𝚎𝚐𝚎𝚡/𝙽𝙻𝙿 𝚙𝚊𝚛𝚜𝚒𝚗𝚐
+
+📈 𝙰𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝙵𝚒𝚗𝚊𝚗𝚌𝚒𝚊𝚕 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 & 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙰𝚐𝚎𝚗𝚝
+
+𝙰 𝚞𝚝𝚒𝚕𝚒𝚝𝚢-𝚋𝚊𝚜𝚎𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚐𝚎𝚗𝚝 𝚞𝚜𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝙶𝚛𝚊𝚙𝚑 𝚝𝚑𝚊𝚝 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜𝚕𝚢 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚜 𝚖𝚊𝚛𝚔𝚎𝚝 𝚙𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝙻𝙻𝙼-𝚍𝚛𝚒𝚟𝚎𝚗 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜, 𝚜𝚝𝚛𝚊𝚝𝚎𝚐𝚢 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗, 𝚋𝚊𝚌𝚔𝚝𝚎𝚜𝚝𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚙𝚊𝚙𝚎𝚛 𝚝𝚛𝚊𝚍𝚎 𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗 𝚟𝚒𝚊 𝙰𝚕𝚙𝚊𝚌𝚊 𝙰𝙿𝙸. 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜 𝚊 𝟽-𝚗𝚘𝚍𝚎 𝚜𝚝𝚊𝚝𝚎𝚏𝚞𝚕 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠 (𝙵𝚎𝚝𝚌𝚑 → 𝙰𝚗𝚊𝚕𝚢𝚣𝚎 → 𝙿𝚕𝚊𝚗 → 𝚂𝚒𝚖𝚞𝚕𝚊𝚝𝚎 → 𝙴𝚡𝚎𝚌𝚞𝚝𝚎 → 𝙴𝚟𝚊𝚕𝚞𝚊𝚝𝚎 → 𝙻𝚎𝚊𝚛𝚗) 𝚠𝚒𝚝𝚑 𝚖𝚞𝚕𝚝𝚒-𝙻𝙻𝙼 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚊𝚗𝚍 𝚜𝚎𝚕𝚏-𝚒𝚖𝚙𝚛𝚘𝚟𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚏𝚎𝚎𝚍𝚋𝚊𝚌𝚔 𝚕𝚘𝚘𝚙𝚜.
+
+𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙻𝚊𝚗𝚐𝙶𝚛𝚊𝚙𝚑, 𝙻𝚊𝚗𝚐𝙲𝚑𝚊𝚒𝚗, 𝙾𝚙𝚎𝚗𝙰𝙸/𝙾𝚕𝚕𝚊𝚖𝚊/𝙶𝚛𝚘𝚚, 𝙰𝚕𝚙𝚊𝚌𝚊 𝙰𝙿𝙸, 𝙵𝚊𝚜𝚝𝙰𝙿𝙸
+
+📚 𝙰𝙸 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝙰𝚐𝚎𝚗𝚝 – 𝚂𝚎𝚖𝚊𝚗𝚝𝚒𝚌 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 𝚂𝚢𝚜𝚝𝚎𝚖
+
+𝙰 𝚁𝙰𝙶-𝚋𝚊𝚜𝚎𝚍 𝙰𝙸 𝚊𝚐𝚎𝚗𝚝 𝚝𝚑𝚊𝚝 𝚒𝚗𝚐𝚎𝚜𝚝𝚜 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚙𝚊𝚙𝚎𝚛𝚜, 𝚋𝚞𝚒𝚕𝚍𝚜 𝚟𝚎𝚌𝚝𝚘𝚛 𝚎𝚖𝚋𝚎𝚍𝚍𝚒𝚗𝚐𝚜 𝚞𝚜𝚒𝚗𝚐 𝚂𝚎𝚗𝚝𝚎𝚗𝚌𝚎-𝚃𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜, 𝚊𝚗𝚍 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚜 𝚜𝚎𝚖𝚊𝚗𝚝𝚒𝚌 𝚜𝚎𝚊𝚛𝚌𝚑 𝚟𝚒𝚊 𝙵𝙰𝙸𝚂𝚂/𝙲𝚑𝚛𝚘𝚖𝚊𝙳𝙱. 𝙸𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚊 𝙻𝚊𝚗𝚐𝙲𝚑𝚊𝚒𝚗 + 𝙻𝚊𝚗𝚐𝙶𝚛𝚊𝚙𝚑 𝚜𝚝𝚊𝚝𝚎𝚏𝚞𝚕 𝚊𝚐𝚎𝚗𝚝 𝚏𝚘𝚛 𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗 𝚊𝚗𝚜𝚠𝚎𝚛𝚒𝚗𝚐, 𝚜𝚞𝚖𝚖𝚊𝚛𝚒𝚣𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝚛𝚎𝚌𝚘𝚖𝚖𝚎𝚗𝚍𝚊𝚝𝚒𝚘𝚗 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚊 𝚂𝚝𝚛𝚎𝚊𝚖𝚕𝚒𝚝 𝚠𝚎𝚋 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎.
+
+𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙻𝚊𝚗𝚐𝙲𝚑𝚊𝚒𝚗, 𝙻𝚊𝚗𝚐𝙶𝚛𝚊𝚙𝚑, 𝚁𝙰𝙶, 𝙵𝙰𝙸𝚂𝚂, 𝙲𝚑𝚛𝚘𝚖𝚊𝙳𝙱, 𝚂𝚎𝚗𝚝𝚎𝚗𝚌𝚎-𝚃𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜, 𝚂𝚝𝚛𝚎𝚊𝚖𝚕𝚒𝚝
+
+🔍 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚅𝚒𝚜𝚒𝚘𝚗 𝙰𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙰𝚐𝚎𝚗𝚝𝚜 (𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗)
+
+𝙱𝚞𝚒𝚕𝚝 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛-𝚟𝚒𝚜𝚒𝚘𝚗 𝚊𝚐𝚎𝚗𝚝𝚜 𝚏𝚘𝚛 𝚀𝚁 𝚌𝚘𝚍𝚎 𝚊𝚗𝚍 𝚌𝚘𝚙𝚢-𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗 (𝙲𝙳𝙿) 𝚋𝚊𝚜𝚎𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚊𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝚅𝚒𝚜𝚒𝚘𝚗 𝚃𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚊𝚜𝚝𝚒𝚟𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐. 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚍 𝟿𝟽.𝟿% 𝚟𝚎𝚛𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚊𝚌𝚌𝚞𝚛𝚊𝚌𝚢 𝚠𝚒𝚝𝚑 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚍 𝚍𝚊𝚝𝚊 𝚌𝚞𝚛𝚊𝚝𝚒𝚘𝚗, 𝙼𝙻𝚏𝚕𝚘𝚠 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝚝𝚛𝚊𝚌𝚔𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝 𝚘𝚗 𝙰𝚆𝚂 𝚂𝚊𝚐𝚎𝙼𝚊𝚔𝚎𝚛 𝚠𝚒𝚝𝚑 𝙳𝚘𝚌𝚔𝚎𝚛/𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜.
+
+𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔: 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙿𝚢𝚃𝚘𝚛𝚌𝚑, 𝚅𝚒𝚜𝚒𝚘𝚗 𝚃𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜, 𝙾𝚙𝚎𝚗𝙲𝚅, 𝙰𝚆𝚂 𝚂𝚊𝚐𝚎𝙼𝚊𝚔𝚎𝚛, 𝙼𝙻𝚏𝚕𝚘𝚠, 𝙰𝚒𝚛𝚏𝚕𝚘𝚠, 𝙳𝚘𝚌𝚔𝚎𝚛, 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜, 𝙶𝚛𝚊𝚏𝚊𝚗𝚊
+
+🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+
+🤖 𝙰𝙸 / 𝙻𝙻𝙼: 𝙻𝚊𝚗𝚐𝙲𝚑𝚊𝚒𝚗, 𝙻𝚊𝚗𝚐𝙶𝚛𝚊𝚙𝚑, 𝙾𝚙𝚎𝚗𝙰𝙸, 𝙾𝚕𝚕𝚊𝚖𝚊, 𝙶𝚛𝚘𝚚, 𝙷𝚞𝚐𝚐𝚒𝚗𝚐𝙵𝚊𝚌𝚎, 𝙿𝚛𝚘𝚖𝚙𝚝 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚃𝚘𝚘𝚕 𝙲𝚊𝚕𝚕𝚒𝚗𝚐, 𝚁𝙰𝙶, 𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝚆𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜
+
+🧠 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝙿𝚢𝚃𝚘𝚛𝚌𝚑, 𝚃𝚎𝚗𝚜𝚘𝚛𝙵𝚕𝚘𝚠, 𝚂𝚌𝚒𝚔𝚒𝚝-𝚕𝚎𝚊𝚛𝚗, 𝚃𝚒𝚖𝚎-𝚂𝚎𝚛𝚒𝚎𝚜 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜, 𝙵𝚎𝚊𝚝𝚞𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝙼𝚘𝚍𝚎𝚕 𝙴𝚟𝚊𝚕𝚞𝚊𝚝𝚒𝚘𝚗, 𝙱𝚊𝚌𝚔𝚝𝚎𝚜𝚝𝚒𝚗𝚐, 𝚁𝚒𝚜𝚔 𝙼𝚘𝚍𝚎𝚕𝚒𝚗𝚐
+
+📊 𝙼𝙻 𝙿𝚒𝚙𝚎𝚕𝚒𝚗𝚎 & 𝙼𝙻𝙾𝚙𝚜: 𝙴𝚗𝚍-𝚝𝚘-𝙴𝚗𝚍 𝙼𝙻 𝙿𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜 (𝙳𝚊𝚝𝚊 𝙸𝚗𝚐𝚎𝚜𝚝𝚒𝚘𝚗 → 𝙿𝚛𝚎𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐 → 𝙴𝚖𝚋𝚎𝚍𝚍𝚒𝚗𝚐𝚜 → 𝙸𝚗𝚏𝚎𝚛𝚎𝚗𝚌𝚎 → 𝙴𝚟𝚊𝚕𝚞𝚊𝚝𝚒𝚘𝚗), 𝚅𝚎𝚌𝚝𝚘𝚛 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜 (𝙵𝙰𝙸𝚂𝚂, 𝙲𝚑𝚛𝚘𝚖𝚊𝙳𝙱), 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝚃𝚛𝚊𝚌𝚔𝚒𝚗𝚐, 𝙼𝚘𝚍𝚎𝚕 𝚅𝚎𝚛𝚜𝚒𝚘𝚗𝚒𝚗𝚐, 𝙸𝚗𝚏𝚎𝚛𝚎𝚗𝚌𝚎 𝙾𝚛𝚌𝚑𝚎𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗, 𝙼𝚘𝚗𝚒𝚝𝚘𝚛𝚒𝚗𝚐, 𝙼𝙻𝚏𝚕𝚘𝚠, 𝙰𝚒𝚛𝚏𝚕𝚘𝚠
+
+☁️ 𝙳𝚎𝚟𝙾𝚙𝚜 & 𝙲𝚕𝚘𝚞𝚍: 𝙳𝚘𝚌𝚔𝚎𝚛, 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜, 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚘𝚗𝚜, 𝙲𝙸/𝙲𝙳, 𝙻𝚒𝚗𝚞𝚡, 𝙰𝚆𝚂 (𝙴𝙲𝟸, 𝚂𝟹, 𝚂𝚊𝚐𝚎𝙼𝚊𝚔𝚎𝚛, 𝙻𝚊𝚖𝚋𝚍𝚊, 𝙲𝚕𝚘𝚞𝚍𝚆𝚊𝚝𝚌𝚑, 𝙴𝙺𝚂), 𝙶𝙲𝙿 (𝙲𝚕𝚘𝚞𝚍 𝚁𝚞𝚗, 𝙰𝚛𝚝𝚒𝚏𝚊𝚌𝚝 𝚁𝚎𝚐𝚒𝚜𝚝𝚛𝚢, 𝙲𝚕𝚘𝚞𝚍 𝚂𝚝𝚘𝚛𝚊𝚐𝚎)
+
+💻 𝙱𝚊𝚌𝚔𝚎𝚗𝚍: 𝙵𝚊𝚜𝚝𝙰𝙿𝙸, 𝚁𝙴𝚂𝚃 𝙰𝙿𝙸𝚜, 𝙾𝙰𝚞𝚝𝚑𝟸, 𝙶𝚖𝚊𝚒𝚕 𝙰𝙿𝙸, 𝙰𝚕𝚙𝚊𝚌𝚊 𝚃𝚛𝚊𝚍𝚒𝚗𝚐 𝙰𝙿𝙸
+
+🗄️ 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐: 𝙿𝚊𝚗𝚍𝚊𝚜, 𝙽𝚞𝚖𝙿𝚢, 𝙸𝚗𝚏𝚕𝚞𝚡𝙳𝙱, 𝙴𝚃𝙻 𝙿𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜, 𝚂𝚝𝚛𝚎𝚊𝚖𝚒𝚗𝚐 𝙼𝚊𝚛𝚔𝚎𝚝 𝙳𝚊𝚝𝚊, 𝙿𝙳𝙵 𝙿𝚊𝚛𝚜𝚒𝚗𝚐
+
+🎯 𝙰𝚐𝚎𝚗𝚝 𝚂𝚢𝚜𝚝𝚎𝚖𝚜: 𝚄𝚝𝚒𝚕𝚒𝚝𝚢-𝙱𝚊𝚜𝚎𝚍 𝙰𝚐𝚎𝚗𝚝𝚜, 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙰𝚐𝚎𝚗𝚝𝚜, 𝚂𝚝𝚊𝚝𝚎 𝙼𝚊𝚌𝚑𝚒𝚗𝚎𝚜, 𝙼𝚞𝚕𝚝𝚒-𝙽𝚘𝚍𝚎 𝙶𝚛𝚊𝚙𝚑 𝚆𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜, 𝙼𝚎𝚖𝚘𝚛𝚢, 𝙿𝚕𝚊𝚗𝚗𝚒𝚗𝚐, 𝚃𝚘𝚘𝚕 𝙸𝚗𝚟𝚘𝚌𝚊𝚝𝚒𝚘𝚗
+
+🎯 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜
+
+- **𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙰𝙸:** 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚊𝚐𝚎𝚗𝚝𝚜 𝚠𝚒𝚝𝚑 𝚙𝚎𝚛𝚌𝚎𝚙𝚝𝚒𝚘𝚗, 𝚛𝚎𝚊𝚜𝚘𝚗𝚒𝚗𝚐, 𝚙𝚕𝚊𝚗𝚗𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚌𝚊𝚙𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜
+
+- **𝙻𝙻𝙼 𝙾𝚛𝚌𝚑𝚎𝚜𝚝𝚛𝚊𝚝𝚒𝚘𝚗:** 𝙼𝚞𝚕𝚝𝚒-𝙻𝙻𝙼 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠𝚜, 𝚁𝙰𝙶 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚙𝚛𝚘𝚖𝚙𝚝 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚝𝚘𝚘𝚕 𝚌𝚊𝚕𝚕𝚒𝚗𝚐
+
+- **𝙼𝙻𝙾𝚙𝚜:** 𝙴𝚗𝚍-𝚝𝚘-𝚎𝚗𝚍 𝙼𝙻 𝚙𝚒𝚙𝚎𝚕𝚒𝚗𝚎𝚜, 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝚝𝚛𝚊𝚌𝚔𝚒𝚗𝚐, 𝚖𝚘𝚍𝚎𝚕 𝚟𝚎𝚛𝚜𝚒𝚘𝚗𝚒𝚗𝚐, 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎𝚍 𝚛𝚎𝚝𝚛𝚊𝚒𝚗𝚒𝚗𝚐, 𝚍𝚛𝚒𝚏𝚝 𝚍𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗
+
+- **𝙲𝚕𝚘𝚞𝚍 𝙼𝙻 𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝:** 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗-𝚐𝚛𝚊𝚍𝚎 𝙼𝙻 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚘𝚗 𝙰𝚆𝚂 𝚂𝚊𝚐𝚎𝙼𝚊𝚔𝚎𝚛 𝚊𝚗𝚍 𝙶𝙲𝙿 𝙲𝚕𝚘𝚞𝚍 𝚁𝚞𝚗
+
+- **𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚅𝚒𝚜𝚒𝚘𝚗:** 𝚅𝚒𝚜𝚒𝚘𝚗 𝚃𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚎𝚛𝚜, 𝚌𝚘𝚗𝚝𝚛𝚊𝚜𝚝𝚒𝚟𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚛𝚎𝚊𝚕-𝚝𝚒𝚖𝚎 𝚒𝚗𝚏𝚎𝚛𝚎𝚗𝚌𝚎 𝚘𝚙𝚝𝚒𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗
+
+📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 **aviralsharma5531@gmail.com**. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
 <p align="left">
-<a href="https://twitter.com/aviralsharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aviralsharma_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aviral-s-3903121b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aviral-s-3903121b3" height="30" width="40" /></a>
+<a href="https://x.com/aviralsharma_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="aviralsharma_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aviral31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral31" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviralsharmaa&show_icons=true&locale=en&layout=compact" alt="aviralsharmaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviralsharmaa&" alt="aviralsharmaa" /></p>
+<p align="center">𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚝𝚑𝚎 𝚏𝚞𝚝𝚞𝚛𝚎 𝚘𝚏 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝙰𝙸 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚘𝚗𝚎 𝚊𝚐𝚎𝚗𝚝 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎 🚀</p>
